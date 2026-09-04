@@ -1,2 +1,2 @@
 # Predicting-Mental-Health-with-Sociodemographic-Factors
-Predicting mental health and obesity prevalence across U.S. census tracts using sociodemographic data (ACS, CDC).
+This project models community-level mental health and obesity outcomes using sociodemographic features like income, education, and poverty rate. We compared Random Forest and Beta Regression for predicting mental health prevalence (continuous outcome), and kNN and Multinomial Logistic Regression for classifying obesity levels (low/medium/high). Models were evaluated using calibration-based metrics, with SHAP and partial dependence plots used to interpret key drivers.
